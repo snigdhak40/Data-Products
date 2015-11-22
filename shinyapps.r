@@ -1,0 +1,5 @@
+library(shiny)
+setwd("C:/Users/rkanadib/Documents/GitHub/Data-Products/")
+getwd()
+runApp("shinyapps")
+quit()
